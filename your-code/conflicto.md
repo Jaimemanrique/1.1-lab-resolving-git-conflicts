@@ -1,4 +1,5 @@
 conflict 1
+<<<<<<< HEAD
 
 
 
@@ -17,3 +18,8 @@ dg
 fd
 h
 
+=======
+posvxncpvsomnvpsd
+
+skdjnvsocnsocdiosinz
+>>>>>>> rama
